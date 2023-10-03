@@ -9,9 +9,9 @@ public class Make_Palindrome {
                 r--;
             }
             if(l==r){
-                temp = s1.charAt(r);
+               /* temp = s1.charAt(r);
                 s1.charAt(r) = s1.charAt(r+1);
-                s1.charAt(r+1) = temp;
+                s1.charAt(r+1) = temp;*/
             }
         }
     }

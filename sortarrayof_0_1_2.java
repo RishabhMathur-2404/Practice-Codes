@@ -23,7 +23,7 @@ public class sortarrayof_0_1_2 {
                     case 1:
                         mid++;
                         break;
-                   
+
                     case 2: {
                         temp = a[mid];
                         a[mid] = a[hi];
